@@ -32,6 +32,8 @@ usuarias, al lado derecho.
 
 ![pokemon-data-to-ui](https://user-images.githubusercontent.com/12631491/218505816-c6d11758-9de4-428f-affb-2a56ea4d68c4.png)
 
+![mi-imagen](https://github.com/JackCresLA/DEV008-data-lovers/blob/main/mi-imagen.png?raw=true)
+
 ## 2. Resumen del proyecto
 
 En este proyecto **construirás una _página web_ para visualizar un
